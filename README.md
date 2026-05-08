@@ -38,8 +38,9 @@
 ![NumPy](https://img.shields.io/badge/NumPy-05122A?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-05122A?style=for-the-badge&logo=plotly&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-05122A?style=for-the-badge&logo=git&logoColor=F05032)
-![VSCode](https://img.shields.io/badge/VSCode-05122A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 ![SQL](https://img.shields.io/badge/SQL-05122A?style=for-the-badge&logo=mysql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-05122A?style=for-the-badge&logo=jupyter&logoColor=F37626)
+![PyCharm](https://img.shields.io/badge/PyCharm-05122A?style=for-the-badge&logo=pycharm&logoColor=white)
 
 ---
 
