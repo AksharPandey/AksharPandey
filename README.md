@@ -25,7 +25,6 @@
 > goals
   BSc Econometrics @ UvA
   MSc Quantitative Finance @ ETH Zurich
-  Work in Singapore
 
 > motto
   "Code first, understand later — then understand deeply"
