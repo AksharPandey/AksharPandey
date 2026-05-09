@@ -16,7 +16,7 @@
   Akshar Pandey — incoming econometrics student @ UvA
   
 > interests
-  Quantitative finance, probability, algorithmic thinking
+  Probability, algorithms, markets
 
 > currently
   Building things before university starts
