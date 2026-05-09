@@ -61,8 +61,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AksharPandey&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
-<br/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=AksharPandey&theme=dark&hide_border=true&background=0d1117" />
 </div>
 
